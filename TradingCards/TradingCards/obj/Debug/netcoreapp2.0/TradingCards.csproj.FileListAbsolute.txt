@@ -1,0 +1,11 @@
+C:\Git\TradingCards\TradingCards\TradingCards\bin\Debug\netcoreapp2.0\TradingCards.deps.json
+C:\Git\TradingCards\TradingCards\TradingCards\bin\Debug\netcoreapp2.0\TradingCards.runtimeconfig.json
+C:\Git\TradingCards\TradingCards\TradingCards\bin\Debug\netcoreapp2.0\TradingCards.runtimeconfig.dev.json
+C:\Git\TradingCards\TradingCards\TradingCards\bin\Debug\netcoreapp2.0\TradingCards.dll
+C:\Git\TradingCards\TradingCards\TradingCards\bin\Debug\netcoreapp2.0\TradingCards.pdb
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.csprojResolveAssemblyReference.cache
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.csproj.CoreCompileInputs.cache
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.AssemblyInfoInputs.cache
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.AssemblyInfo.cs
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.dll
+C:\Git\TradingCards\TradingCards\TradingCards\obj\Debug\netcoreapp2.0\TradingCards.pdb
