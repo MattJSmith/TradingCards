@@ -12,19 +12,19 @@ namespace TradingCards.Controllers
     {
         // GET api/cards
         [HttpGet]
-        public IEnumerable<Card> Get()
+        public IEnumerable<ExampleCard> Get()
         {
-            return new Card[] {
-                new Card { Name = "TestCard", Description = "Test" },
-                new Card { Name = "TestCard2", Description = "Test2" }
+            return new ExampleCard[] {
+                new ExampleCard { CardName = "TestCard", CardDescription = "Test" },
+                new ExampleCard { CardName = "TestCard2", CardDescription = "Test2" }
             };
         }
 
         // GET api/cards/5
         [HttpGet("{id}")]
-        public Card Get(int id)
+        public ExampleCard Get(int id)
         {
-            return new Card { Name=$"TestCard{id}",Description="Test"};
+            return new ExampleCard { CardName = $"TestCard{id}", CardDescription = "Test"};
         }
 
         // POST api/cards
@@ -35,7 +35,7 @@ namespace TradingCards.Controllers
 
         // PUT api/cards/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody]Card updatedCard)
+        public void Put(int id, [FromBody]ExampleCard updatedCard)
         {
         }
 
